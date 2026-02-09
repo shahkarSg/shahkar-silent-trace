@@ -30,7 +30,7 @@ The official and final release is now branded as **Shahkar Silent Trace**.
 
 ---
 
-https://github.com/shahkarSg/shahkar-silent-trace/issues/2#issue-3917432286
+<img width="1600" height="858" alt="Image" src="https://github.com/user-attachments/assets/7aa6e85c-2a9e-40ae-a44f-b65bc31fb442" />
 
 ## 🛡️ Ownership & Documentation
 
