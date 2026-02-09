@@ -30,6 +30,8 @@ The official and final release is now branded as **Shahkar Silent Trace**.
 
 ---
 
+https://github.com/shahkarSg/shahkar-silent-trace/issues/2#issue-3917432286
+
 ## 🛡️ Ownership & Documentation
 
 - SHA-256 v1.0.0: `5971773f438abfbb8fc0172b80f8a302718b0594de2c0e66fd55ac9ec61b47d5`
